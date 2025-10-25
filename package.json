@@ -6,5 +6,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "engines": {
+    "node": ">=20.9.0"
   }
 }
